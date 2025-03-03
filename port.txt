@@ -1,0 +1,6 @@
+## Service Port
+
+- 5011 ProductService
+- 5012 BasketService
+- 5013 OrderService
+- 5014 NotificationService
